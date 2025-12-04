@@ -1,6 +1,6 @@
 # 🎲 Risky-Roll
 
-Risky-Roll is an exciting 2-player JavaScript game where the goal is to race to 100 points before your opponent. But beware—rolling a 1 resets your current score for the turn! It's a thrilling mix of luck and strategy, perfect for fun-filled challenges.
+Risky-Roll is an exciting 2-player JavaScript game where the goal is to race to 100 points before your opponent. But beware-rolling a 1 resets your current score for the turn! It's a thrilling mix of luck and strategy, perfect for fun-filled challenges.
 
 ---
 
